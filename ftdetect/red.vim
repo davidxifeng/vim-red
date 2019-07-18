@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.red		set filetype=red
+au BufNewFile,BufRead *.red		set filetype=reds
